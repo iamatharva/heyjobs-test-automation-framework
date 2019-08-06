@@ -1,0 +1,6 @@
+{
+  "unknownPageError": {
+     "errorCode" : "404",
+     "errorMessage" : "Sorry, this url is not pointing anywhere"
+  }
+}
